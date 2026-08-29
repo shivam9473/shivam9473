@@ -84,7 +84,7 @@ A reusable multi-module framework for browser and REST API automation.
 
 ### Let's build reliable software together
 
-I'm open to **QA / SDET**, **software engineering**, **full-stack TypeScript**, and enerative AI & Agentic AI Builder
+I'm open to **QA / SDET**, **software engineering**, **full-stack TypeScript**, and Generative AI & Agentic AI Builder
 
 [Email me](mailto:shivamk38812@gmail.com) · [View my repositories](https://github.com/shivam9473?tab=repositories)
 
