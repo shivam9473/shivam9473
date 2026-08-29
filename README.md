@@ -79,24 +79,12 @@ A reusable multi-module framework for browser and REST API automation.
 - Creating RAG applications with grounded, source-cited responses
 - Learning agentic AI orchestration with LangGraph and MCP
 
----
-
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivam9473&show_icons=true&hide_border=true&theme=tokyonight" alt="Shivam's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam9473&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Shivam's most used languages" />
-
-</div>
-
----
 
 <div align="center">
 
 ### Let's build reliable software together
 
-I'm open to **QA / SDET**, **software engineering**, **full-stack TypeScript**, and **AI / RAG** opportunities.
+I'm open to **QA / SDET**, **software engineering**, **full-stack TypeScript**, and enerative AI & Agentic AI Builder
 
 [Email me](mailto:shivamk38812@gmail.com) · [View my repositories](https://github.com/shivam9473?tab=repositories)
 
