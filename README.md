@@ -8,7 +8,7 @@ I build reliable software, automate quality checks, and explore Generative AI an
 
 [![GitHub](https://img.shields.io/badge/GitHub-@shivam9473-181717?style=for-the-badge&logo=github)](https://github.com/shivam9473)
 [![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamk38812@gmail.com)
-[![Location](https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-singh-950065252/)
 
 </div>
 
