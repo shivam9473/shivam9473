@@ -58,14 +58,6 @@ A reusable multi-module framework for browser and REST API automation.
 - Covers the Restful Booker CRUD lifecycle, authentication, and JSON schema validation.
 - Supports parallel execution, retry handling, Selenium Grid, and CI-based smoke and regression runs.
 
-### 🏥 [HealthSync](https://github.com/shivam9473/HealthSync)
-
-A MERN hospital-management system for authentication, appointments, patient records, doctor-patient communication, and administration.
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
----
-
 ## Technical toolbox
 
 | Area | Technologies |
