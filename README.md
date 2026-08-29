@@ -2,9 +2,9 @@
 
 # Hi, I'm Shivam Kumar 👋
 
-### QA / SDET Engineer · Full-Stack TypeScript Developer · AI & RAG Builder
+### QA / SDET Engineer · Full-Stack TypeScript Developer · Generative AI Engineer · Agentic AI Builder
 
-I build reliable software, automate quality checks, and create practical AI-powered developer tools.
+I build reliable software, automate quality checks, and explore Generative AI and Agentic AI systems focused on RAG, agent orchestration, graph engineering, and reliable agent loops.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@shivam9473-181717?style=for-the-badge&logo=github)](https://github.com/shivam9473)
 [![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamk38812@gmail.com)
@@ -19,7 +19,8 @@ I build reliable software, automate quality checks, and create practical AI-powe
 - 🔍 **QA Intern at Toba Tech Solution**, working with manual testing, REST API testing, regression testing, Jira, and Selenium.
 - 🧪 I build reusable **UI and API automation frameworks** with Java, Selenium, TestNG, Rest Assured, Maven, Allure, and GitHub Actions.
 - ⚙️ I develop full-stack applications using **TypeScript, React, Node.js, Express/Fastify, PostgreSQL, MongoDB, and Redis**.
-- 🤖 I explore **RAG, vector embeddings, semantic search, Pinecone, LangChain, and LangGraph** through hands-on projects.
+- 🤖 I build and explore Generative AI and Agentic AI systems using RAG, LLMs, vector embeddings, semantic search, LangChain, LangGraph, and MCP.
+- 🤖 Currently learning agent orchestration, graph engineering, agent loops, tool calling, memory, state management, and evaluation of AI agents.
 - 🎓 B.Tech in Computer Science and Engineering at Geetanjali Institute of Technical Studies, Udaipur — **9.3 CGPA**.
 
 > I care about software that is not only functional, but also reliable, testable, and maintainable.
@@ -30,8 +31,7 @@ I build reliable software, automate quality checks, and create practical AI-powe
 
 ### 🧠 [CodeAtlas AI](https://github.com/shivam9473/RepoIQ)
 
-An AI-powered code-intelligence platform that indexes GitHub repositories and answers natural-language questions with file- and function-level citations.
-
+An AI-powered code-intelligence platform that combines repository indexing, RAG, semantic retrieval, and LLM-based reasoning to answer natural-language questions about large codebases with file- and function-level citations.
 `React` `TypeScript` `Node.js` `PostgreSQL` `Redis` `BullMQ` `Pinecone` `Docker` `RAG`
 
 - Built an indexing pipeline for cloning, AST-aware parsing, chunking, embedding, and vector storage.
